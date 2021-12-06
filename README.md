@@ -1,0 +1,2 @@
+# multiple-input-form
+This  will allow the user to insert multiples forms of data to the database server when the user clicks the submit button. This will use MySQLi INSERT query to store a data entry to the MySQLi server, after submitted the  script will compress the input array by using implode in order to store the data to the database in one submission.
